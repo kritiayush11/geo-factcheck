@@ -5,6 +5,7 @@ A deployed fact-checking web app that reads PDFs, extracts specific claims, and 
 ## Live Demo
 
 Deploy to Streamlit Cloud and visit your app URL.
+https://geo-factcheck-yvjprvsvdktsb5pua8xnc8.streamlit.app
 
 ---
 
